@@ -1,0 +1,57 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "DB_BibliotecaContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "ProjectRootNamespace": "Biblioteca.Entities",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "Tables": [
+      {
+         "Name": "[acce].[Pantallas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[acce].[PantallasPorRol]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[acce].[Roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[acce].[Usuarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gene].[Clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gene].[Productos]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "IT-IAHE-3G2HT93\\SQLEXPRESS.DB_Biblioteca",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

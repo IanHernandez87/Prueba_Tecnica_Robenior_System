@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYyd7lVu0oQjjYpCw2rBQTCDT98yHvyp3JjOTMZ2BcqLon+EarX71lO4TLb48RFjFNbhSn86S+9RDA5PO5XhUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ian Hernandez(ITGS)\\Documents\\GitHub\\Prueba_Tecnica_Robenior_System\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ian Hernandez(ITGS)\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Ian Hernandez(ITGS)\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
